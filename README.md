@@ -1,11 +1,15 @@
 [![CI](https://github.com/IsmaelBrandao/Bot-kali/actions/workflows/ci.yml/badge.svg)](https://github.com/IsmaelBrandao/Bot-kali/actions/workflows/ci.yml)
 
-# ![Bot-kali](https://raw.githubusercontent.com/IsmaelBrandao/Bot-kali/main/assets/icon.png) Bot-kali
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsmaelBrandao/Bot-kali/master/kali-icon.png" width="120" alt="Bot-kali logo"/>
+</p>
 
-Um bot musical para Discord, desenvolvido em Python, que integra Spotify e YouTube para reprodução de músicas, com fila, loop e paginação elegante.
+<h1 align="center">Bot-kali</h1>
 
----
-
+<p align="center">
+  Um bot musical para Discord, desenvolvido em Python, que integra Spotify e YouTube para reprodução de músicas,
+  com fila, loop e paginação elegante.
+</p>
 ## 🛠️ Tecnologias & Bibliotecas
 
 * **Python 3.9+**
