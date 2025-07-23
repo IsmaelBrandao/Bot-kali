@@ -10,6 +10,9 @@
   Um bot musical para Discord, desenvolvido em Python, que integra Spotify e YouTube para reprodução de músicas,
   com fila, loop e paginação elegante.
 </p>
+
+---
+
 ## 🛠️ Tecnologias & Bibliotecas
 
 * **Python 3.9+**
