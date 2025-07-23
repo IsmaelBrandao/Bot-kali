@@ -1,0 +1,5 @@
+# File: config/settings.yaml
+prefix: "!"
+platform_icons:
+  youtube: "<:youtubelogo:1369702623002886214>"
+  spotify: "<:SpotifyLogo:1369287765300219967>"
